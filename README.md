@@ -1,5 +1,7 @@
 # Multi-Language Hello World Collection
 
+[繁體中文](README.zh-TW.md) | English
+
 A comprehensive collection of "Hello, World!" implementations across 60+ programming languages, organized by paradigm and category. This project serves as a learning resource for comparing syntax and execution methods across different programming languages.
 
 ## 🌟 Overview
