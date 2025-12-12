@@ -1,5 +1,8 @@
 # Dart Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Dart 是由 Google 開發的程式語言，於 2011 年發布。Dart 是 Flutter 框架的基礎語言，用於建立跨平台的行動、網頁和桌面應用程式。

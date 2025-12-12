@@ -1,5 +1,8 @@
 # Smalltalk Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Smalltalk 是一種物件導向的動態型別程式語言，由 Alan Kay 等人在 Xerox PARC 於 1970 年代開發。Smalltalk 是第一個真正的物件導向程式語言，對後來的許多語言產生了深遠影響。

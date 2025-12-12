@@ -1,5 +1,7 @@
 # 多語言 Hello World 集合
 
+[English](README.md) | [繁體中文](README.zh-TW.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Bahasa Indonesia](README.id.md) | [ไทย](README.th.md)
+
 一個涵蓋 60 多種程式語言的「Hello, World!」實作集合，按範式和類別組織。本專案作為學習資源，用於比較不同程式語言的語法和執行方式。
 
 ## 🌟 概覽

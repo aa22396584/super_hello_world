@@ -1,5 +1,8 @@
 # Zig Language - Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Zig 是一種通用程式語言和工具鏈，專注於穩健性、最佳化和可維護性。Zig 旨在成為 C 的現代替代品，提供更好的安全性和更簡潔的語法。

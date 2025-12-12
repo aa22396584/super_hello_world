@@ -1,5 +1,8 @@
 # Julia Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Julia 是一種高階、高效能的動態程式語言，專為科學計算和數值分析設計。於 2012 年發布，Julia 結合了 Python 的易用性和 C 的執行速度，在資料科學和機器學習領域越來越受歡迎。

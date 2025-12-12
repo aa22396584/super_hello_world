@@ -1,5 +1,8 @@
 # Perl Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Perl 是一種高階、通用、解釋型的動態程式語言。由 Larry Wall 於 1987 年創建，Perl 以其強大的文字處理能力而聞名，常用於系統管理、Web 開發和網路程式設計。

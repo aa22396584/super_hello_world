@@ -1,5 +1,8 @@
 # Zsh Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 Zsh (Z Shell) is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting.
 
 ## Installation

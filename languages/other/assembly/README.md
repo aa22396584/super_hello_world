@@ -1,5 +1,8 @@
 # Assembly Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Assembly（組合語言）是一種低階程式語言，與特定的電腦架構緊密相關。每條 Assembly 指令通常對應一條機器碼指令。這個範例使用 x86-64 架構和 NASM 組譯器。

@@ -1,5 +1,8 @@
 # Visual Basic Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Visual Basic (VB) 是由 Microsoft 開發的程式語言，以其易學易用的特性著稱。現代版本稱為 Visual Basic .NET (VB.NET)，運行在 .NET 平台上。

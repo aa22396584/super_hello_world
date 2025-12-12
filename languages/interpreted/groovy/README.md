@@ -1,5 +1,8 @@
 # Groovy Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Groovy 是一種基於 Java 虛擬機（JVM）的動態程式語言。由 James Strachan 於 2003 年創建，Groovy 結合了 Python、Ruby 和 Smalltalk 的特性，同時與 Java 完全相容。

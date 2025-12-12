@@ -1,5 +1,8 @@
 # Pascal Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Pascal 是一種結構化程式語言，由 Niklaus Wirth 於 1970 年設計。Pascal 最初是為了教學目的而創建，強調良好的程式設計習慣和結構化程式設計。

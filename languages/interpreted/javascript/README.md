@@ -1,5 +1,8 @@
 # JavaScript Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 JavaScript 是一種高階、解釋型的程式語言，最初為網頁瀏覽器設計，現在也廣泛用於伺服器端開發（Node.js）。它是 Web 開發的核心技術之一，與 HTML 和 CSS 並列為網頁內容的三大基礎技術。

@@ -1,5 +1,7 @@
 # Other Languages Installation Guide
 
+[English](../../README.md) | [繁體中文](../../README.zh-TW.md) | [简体中文](../../README.zh-CN.md) | [日本語](../../README.ja.md) | [한국어](../../README.ko.md) | [Bahasa Indonesia](../../README.id.md) | [ไทย](../../README.th.md)
+
 This guide provides installation instructions and official documentation links for additional programming languages in this repository.
 
 ## Compiled Languages

@@ -1,5 +1,8 @@
 # Scala Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Scala 是一種運行在 JVM 上的多範式程式語言，結合了物件導向和函數式程式設計。由 Martin Odersky 於 2003 年創建，Scala 的名稱來自 "Scalable Language"。

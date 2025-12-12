@@ -1,5 +1,8 @@
 # Java Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Java 是一種物件導向的程式語言，由 Sun Microsystems（現為 Oracle）於 1995 年發布。Java 的設計理念是 "Write Once, Run Anywhere"（一次編寫，到處執行），透過 Java 虛擬機器（JVM）實現跨平台特性。

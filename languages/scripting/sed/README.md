@@ -1,5 +1,8 @@
 # Sed Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 Sed (Stream EDitor) is a Unix utility that parses and transforms text using a simple, compact programming language.
 
 ## Installation

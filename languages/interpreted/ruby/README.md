@@ -1,5 +1,8 @@
 # Ruby Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Ruby 是一種動態、開源的程式語言，注重簡潔性和生產力。由日本程式設計師松本行弘（Yukihiro Matsumoto）於 1995 年創建，Ruby 的設計哲學強調「程式設計師的快樂」，語法優雅且易於閱讀。Ruby on Rails 框架使其在 Web 開發領域廣受歡迎。

@@ -1,5 +1,8 @@
 # Tcl Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Tcl（Tool Command Language）是一種腳本語言，由 John Ousterhout 於 1988 年創建。Tcl 設計簡單且易於嵌入應用程式中，常與 Tk 圖形介面工具包一起使用。

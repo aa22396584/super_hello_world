@@ -1,5 +1,8 @@
 # Forth Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Forth 是一種堆疊導向的程式語言，由 Charles Moore 於 1970 年代創建。Forth 使用逆波蘭表示法（RPN），具有極簡的語法和強大的擴展性。

@@ -1,5 +1,8 @@
 # C Language - Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 C 是一種通用的程式語言，由 Dennis Ritchie 於 1972 年在貝爾實驗室開發。C 語言是許多現代程式語言的基礎，以其效率和對硬體的直接控制能力而聞名。

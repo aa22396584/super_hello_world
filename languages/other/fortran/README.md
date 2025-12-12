@@ -1,5 +1,8 @@
 # Fortran Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Fortran (Formula Translation) 是最早的高階程式語言之一，由 IBM 於 1957 年開發。Fortran 特別適合科學計算、數值分析和高效能運算。

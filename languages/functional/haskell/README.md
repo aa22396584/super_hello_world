@@ -1,5 +1,8 @@
 # Haskell Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Haskell 是一個標準化的純函數式程式語言，具有非嚴格語義和強靜態類型。它以數學家 Haskell Curry 命名，廣泛應用於學術界和工業界。

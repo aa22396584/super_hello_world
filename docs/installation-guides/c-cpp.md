@@ -1,5 +1,7 @@
 # C/C++ Installation Guide
 
+[English](c-cpp.md) | [繁體中文](c-cpp.zh-TW.md) | [简体中文](c-cpp.zh-CN.md) | [日本語](c-cpp.ja.md) | [한국어](c-cpp.ko.md) | [Bahasa Indonesia](c-cpp.id.md) | [ไทย](c-cpp.th.md)
+
 C and C++ are powerful, low-level programming languages. To compile and run C/C++ programs, you need a compiler like GCC or Clang.
 
 ## macOS

@@ -1,5 +1,8 @@
 # Standard ML Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Standard ML (SML) 是一種通用的函數式程式語言，具有編譯時型別檢查和型別推斷。ML 家族包括 Standard ML、OCaml 等語言。

@@ -1,5 +1,8 @@
 # Fish Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 Fish (Friendly Interactive SHell) is a smart and user-friendly command line shell for Linux, macOS, and other Unix-like systems.
 
 ## Installation

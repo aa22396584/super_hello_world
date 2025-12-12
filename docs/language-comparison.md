@@ -1,5 +1,7 @@
 # Programming Language Comparison
 
+[English](../README.md) | [繁體中文](../README.zh-TW.md) | [简体中文](../README.zh-CN.md) | [日本語](../README.ja.md) | [한국어](../README.ko.md) | [Bahasa Indonesia](../README.id.md) | [ไทย](../README.th.md)
+
 This document provides a comprehensive comparison of the programming languages featured in this repository, highlighting their syntax characteristics, paradigms, use cases, and learning resources.
 
 ## Table of Contents

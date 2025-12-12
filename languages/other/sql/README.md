@@ -1,5 +1,8 @@
 # SQL Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 SQL (Structured Query Language) 是用於管理和操作關聯式資料庫的標準語言。SQL 不是通用程式語言，而是專門用於資料庫查詢和管理的領域特定語言。

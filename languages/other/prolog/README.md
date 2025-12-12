@@ -1,5 +1,8 @@
 # Prolog Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Prolog (Programming in Logic) 是一種邏輯程式語言，由 Alain Colmerauer 於 1972 年創建。Prolog 特別適合用於人工智慧、自然語言處理和專家系統。

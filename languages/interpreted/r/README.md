@@ -1,5 +1,8 @@
 # R Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 R 是一種專為統計計算和圖形設計的程式語言和軟體環境。由 Ross Ihaka 和 Robert Gentleman 於 1993 年創建，R 在資料分析、統計建模和資料視覺化領域廣泛使用。

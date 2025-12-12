@@ -1,5 +1,7 @@
 # Go Installation Guide
 
+[English](go.md) | [繁體中文](go.zh-TW.md) | [简体中文](go.zh-CN.md) | [日本語](go.ja.md) | [한국어](go.ko.md) | [Bahasa Indonesia](go.id.md) | [ไทย](go.th.md)
+
 Go (Golang) is a statically typed, compiled programming language designed for simplicity and efficiency.
 
 ## macOS

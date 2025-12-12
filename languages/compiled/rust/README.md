@@ -1,5 +1,8 @@
 # Rust Language - Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Rust 是由 Mozilla 開發的系統程式語言，於 2010 年首次發布。Rust 以其記憶體安全性、並發性和效能而聞名，無需垃圾回收器即可保證記憶體安全。

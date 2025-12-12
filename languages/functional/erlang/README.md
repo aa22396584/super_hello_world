@@ -1,5 +1,8 @@
 # Erlang Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Erlang 是一個並發導向的函數式程式語言，專為構建可擴展和容錯的分散式系統而設計。廣泛應用於電信和即時系統。

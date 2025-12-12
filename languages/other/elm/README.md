@@ -1,5 +1,8 @@
 # Elm Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Elm 是一種函數式程式語言，專門用於建立網頁前端應用程式。Elm 編譯成 JavaScript，強調無執行時錯誤和優秀的開發體驗。

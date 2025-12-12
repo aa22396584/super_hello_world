@@ -1,5 +1,8 @@
 # PHP Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 PHP（Hypertext Preprocessor）是一種廣泛使用的開源伺服器端腳本語言，特別適合 Web 開發。由 Rasmus Lerdorf 於 1994 年創建，PHP 可以嵌入 HTML 中，並在伺服器端執行。

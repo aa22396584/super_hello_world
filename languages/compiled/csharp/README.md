@@ -1,5 +1,8 @@
 # C# Language - Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 C# 是由 Microsoft 開發的物件導向程式語言，於 2000 年發布。C# 是 .NET 平台的主要語言，廣泛用於 Windows 應用程式、遊戲開發（Unity）和企業應用。

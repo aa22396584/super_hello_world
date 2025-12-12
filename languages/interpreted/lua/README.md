@@ -1,5 +1,8 @@
 # Lua Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Lua 是一種輕量級、高效能的腳本語言，設計用於嵌入應用程式中。由巴西里約熱內盧天主教大學的研究團隊於 1993 年創建，Lua 廣泛應用於遊戲開發、嵌入式系統和配置腳本。

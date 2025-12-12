@@ -1,5 +1,8 @@
 # Common Lisp Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Common Lisp 是一個強大的多範式程式語言，具有豐富的標準函式庫和強大的巨集系統。它是 Lisp 家族中最廣泛使用的方言之一。

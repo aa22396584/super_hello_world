@@ -1,5 +1,8 @@
 # Swift Language - Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Swift 是由 Apple 開發的程式語言，於 2014 年發布。Swift 設計用於 iOS、macOS、watchOS 和 tvOS 應用開發，以其安全性、效能和現代語法而聞名。

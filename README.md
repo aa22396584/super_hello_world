@@ -1,8 +1,19 @@
 # Multi-Language Hello World Collection
 
-[繁體中文](README.zh-TW.md) | English
+<div align="center">
+  <img src="assets/readme_hero.png" alt="Super Hello World Hero" width="100%" />
+</div>
 
-A comprehensive collection of "Hello, World!" implementations across 60+ programming languages, organized by paradigm and category. This project serves as a learning resource for comparing syntax and execution methods across different programming languages.
+<p align="center">
+  <br />
+  <a href="README.md">English</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.zh-CN.md">简体中文</a> | <a href="README.ja.md">日本語</a> | <a href="README.ko.md">한국어</a> | <a href="README.id.md">Bahasa Indonesia</a> | <a href="README.th.md">ไทย</a>
+</p>
+
+<p align="center">
+  <strong>A comprehensive collection of "Hello, World!" implementations across 60+ programming languages.</strong>
+  <br />
+  Organized by paradigm and category · Learning resource · Syntax comparison
+</p>
 
 ## 🌟 Overview
 

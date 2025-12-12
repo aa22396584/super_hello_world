@@ -1,5 +1,8 @@
 # J Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 J 是一種陣列程式語言，由 Kenneth E. Iverson 和 Roger Hui 於 1990 年代初開發。J 是 APL 的後繼者，但使用 ASCII 字元而非特殊符號，使其更容易在標準鍵盤上輸入。

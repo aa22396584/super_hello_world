@@ -1,5 +1,8 @@
 # Kotlin Language - Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Kotlin 是由 JetBrains 開發的程式語言，於 2011 年發布。Kotlin 與 Java 完全互通，是 Android 應用開發的官方語言，以其簡潔性和安全性而受到歡迎。

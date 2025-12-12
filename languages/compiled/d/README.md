@@ -1,5 +1,8 @@
 # D Language - Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 D 是一種系統程式語言，結合了 C++ 的效能和現代語言的便利性。D 支援多種程式設計範式，包括物件導向、函數式和泛型程式設計。

@@ -1,5 +1,8 @@
 # Racket Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Racket 是一個通用的程式語言，也是 Scheme 的方言。它提供了強大的巨集系統和豐富的標準函式庫，適合教學和研究。

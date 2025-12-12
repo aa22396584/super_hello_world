@@ -1,5 +1,8 @@
 # Objective-C Language - Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Objective-C 是 C 語言的超集，加入了 Smalltalk 風格的訊息傳遞機制。在 Swift 出現之前，Objective-C 是 macOS 和 iOS 開發的主要語言。

@@ -1,5 +1,8 @@
 # C++ Language - Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 C++ 是由 Bjarne Stroustrup 於 1979 年開發的程式語言，作為 C 語言的擴展。C++ 支援物件導向程式設計、泛型程式設計和函數式程式設計，是系統程式設計和高效能應用的首選語言之一。

@@ -1,5 +1,8 @@
 # Python Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 Python 是一種高階、解釋型、通用的程式語言，以其簡潔易讀的語法而聞名。由 Guido van Rossum 於 1991 年創建，Python 強調程式碼的可讀性，並允許程式設計師用更少的程式碼表達概念。

@@ -1,5 +1,8 @@
 # AWK Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 AWK is a domain-specific language designed for text processing and typically used as a data extraction and reporting tool.
 
 ## Installation

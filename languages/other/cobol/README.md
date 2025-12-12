@@ -1,5 +1,8 @@
 # COBOL Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 COBOL (Common Business-Oriented Language) 是一種專為商業應用設計的程式語言，由 Grace Hopper 等人於 1959 年開發。COBOL 至今仍廣泛用於銀行、保險和政府系統。

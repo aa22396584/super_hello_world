@@ -1,5 +1,8 @@
 # PureScript Hello World
 
+[English](../../../README.md) | [繁體中文](../../../README.zh-TW.md) | [简体中文](../../../README.zh-CN.md) | [日本語](../../../README.ja.md) | [한국어](../../../README.ko.md) | [Bahasa Indonesia](../../../README.id.md) | [ไทย](../../../README.th.md)
+
+
 ## 語言簡介
 
 PureScript 是一種強型別的純函數式程式語言，編譯成 JavaScript。PureScript 受 Haskell 啟發，提供了強大的型別系統和函數式程式設計特性。
