@@ -155,14 +155,20 @@ compile_language() {
     fi
     
     # Execute compile command in the work directory
-    cd "$work_dir"
+    local orig_dir="$PWD"
+    if ! cd "$work_dir" 2>/dev/null; then
+        if [ "$VERBOSE" = true ]; then
+            echo -e "${RED}  Failed to enter directory: $work_dir${NC}"
+        fi
+        return 1
+    fi
     local compile_output
     local compile_exit_code
     
     compile_output=$(eval "$compile_cmd" 2>&1)
     compile_exit_code=$?
     
-    cd - > /dev/null
+    cd "$orig_dir" || true
     
     if [ $compile_exit_code -ne 0 ]; then
         if [ "$VERBOSE" = true ]; then
@@ -260,14 +266,20 @@ test_language() {
     fi
     
     # Execute run command and capture output
-    cd "$work_dir"
+    local orig_dir="$PWD"
+    if ! cd "$work_dir" 2>/dev/null; then
+        echo -e "${RED}✗ $lang_name: Failed to enter working directory $work_dir${NC}"
+        FAILED_TESTS+=("$lang_name: Failed to enter working directory")
+        rm -rf "$work_dir"
+        return 1
+    fi
     local output
     local exit_code
     
     output=$(eval "$run_cmd" < /dev/null 2>&1)
     exit_code=$?
     
-    cd - > /dev/null
+    cd "$orig_dir" || true
     rm -rf "$work_dir"
     
     # Check exit code
@@ -386,10 +398,6 @@ main() {
     local test_all=false
     local specific_lang=""
     
-    if [ $# -eq 0 ]; then
-        test_all=true
-    fi
-    
     while [ $# -gt 0 ]; do
         case "$1" in
             -h|--help)
@@ -422,6 +430,11 @@ main() {
                 ;;
         esac
     done
+    
+    # Default to testing all languages if no specific language was specified
+    if [ -z "$specific_lang" ]; then
+        test_all=true
+    fi
     
     # Execute tests
     if [ -n "$specific_lang" ]; then

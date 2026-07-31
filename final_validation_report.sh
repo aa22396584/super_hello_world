@@ -30,8 +30,8 @@ echo ""
 # Run test suite
 echo -e "${CYAN}[2/3] Running Test Suite (available languages only)...${NC}"
 echo ""
-./test.sh --available-only 2>&1 | tail -30
-test_result=$?
+./test.sh --all --available-only 2>&1 | tail -30
+test_result=${PIPESTATUS[0]}
 echo ""
 
 # Run documentation validation
@@ -95,15 +95,12 @@ echo "Validation Complete!"
 echo -e "==========================================${NC}"
 echo ""
 
-if [ $config_result -eq 0 ]; then
-    echo -e "${GREEN}✓ Project is ready for use!${NC}"
-    echo ""
-    echo "Quick Start:"
-    echo "  ./run.sh --list          # List all languages"
-    echo "  ./run.sh Python          # Run Python Hello World"
-    echo "  ./test.sh --all          # Test all implementations"
-    exit 0
-else
-    echo -e "${RED}✗ Please fix configuration issues before proceeding${NC}"
-    exit 1
-fi
+if [ $config_result -ne 0 ] || [ $test_result -ne 0 ] || [ $docs_result -ne 0 ]; then exit 1; fi
+
+echo -e "${GREEN}✓ Project is ready for use!${NC}"
+echo ""
+echo "Quick Start:"
+echo "  ./run.sh --list          # List all languages"
+echo "  ./run.sh Python          # Run Python Hello World"
+echo "  ./test.sh --all          # Test all implementations"
+exit 0

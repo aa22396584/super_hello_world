@@ -22,7 +22,7 @@ total_issues=0
 echo "1. Checking README.md..."
 if [ ! -f "README.md" ]; then
     echo -e "${RED}✗ README.md not found${NC}"
-    ((total_issues++))
+    ((total_issues+=1))
 else
     echo -e "${GREEN}✓ README.md exists${NC}"
     
@@ -33,7 +33,7 @@ else
             echo -e "${GREEN}  ✓ Section '$section' found${NC}"
         else
             echo -e "${YELLOW}  ⚠ Section '$section' missing${NC}"
-            ((total_issues++))
+            ((total_issues+=1))
         fi
     done
     
@@ -42,7 +42,7 @@ else
         echo -e "${GREEN}  ✓ Language table found${NC}"
         
         # Count languages in table
-        table_count=$(grep -c "| [A-Z]" README.md || echo "0")
+        table_count=$(grep "| [A-Z]" README.md | grep -c -v "| Language |" || echo "0")
         json_count=$(python3 -c "import json; print(len(json.load(open('languages.json'))['languages']))")
         
         echo -e "${BLUE}  Languages in table: $table_count${NC}"
@@ -53,7 +53,7 @@ else
         fi
     else
         echo -e "${RED}  ✗ Language table not found${NC}"
-        ((total_issues++))
+        ((total_issues+=1))
     fi
 fi
 
@@ -63,7 +63,7 @@ echo ""
 echo "2. Checking CONTRIBUTING.md..."
 if [ ! -f "CONTRIBUTING.md" ]; then
     echo -e "${RED}✗ CONTRIBUTING.md not found${NC}"
-    ((total_issues++))
+    ((total_issues+=1))
 else
     echo -e "${GREEN}✓ CONTRIBUTING.md exists${NC}"
     
@@ -72,7 +72,7 @@ else
         echo -e "${GREEN}  ✓ 'Adding a New Language' section found${NC}"
     else
         echo -e "${YELLOW}  ⚠ 'Adding a New Language' section missing${NC}"
-        ((total_issues++))
+        ((total_issues+=1))
     fi
 fi
 
@@ -85,13 +85,13 @@ missing_readmes=0
 
 while IFS= read -r dir; do
     if [ -f "$dir/README.md" ]; then
-        ((readme_count++))
+        ((readme_count+=1))
     else
         echo -e "${RED}  ✗ Missing: $dir/README.md${NC}"
-        ((missing_readmes++))
-        ((total_issues++))
+        ((missing_readmes+=1))
+        ((total_issues+=1))
     fi
-done < <(find languages -type d -mindepth 3 -maxdepth 3)
+done < <(find languages -type d -mindepth 2 -maxdepth 2)
 
 echo -e "${BLUE}  Found $readme_count language README files${NC}"
 if [ $missing_readmes -eq 0 ]; then
@@ -181,7 +181,7 @@ if [ -d "docs" ]; then
         echo -e "${GREEN}  ✓ language-comparison.md exists${NC}"
     else
         echo -e "${YELLOW}  ⚠ language-comparison.md missing${NC}"
-        ((total_issues++))
+        ((total_issues+=1))
     fi
     
     if [ -d "docs/installation-guides" ]; then
@@ -190,11 +190,11 @@ if [ -d "docs" ]; then
         echo -e "${BLUE}    Found $guide_count installation guides${NC}"
     else
         echo -e "${YELLOW}  ⚠ installation-guides directory missing${NC}"
-        ((total_issues++))
+        ((total_issues+=1))
     fi
 else
     echo -e "${RED}✗ docs directory not found${NC}"
-    ((total_issues++))
+    ((total_issues+=1))
 fi
 
 echo ""
