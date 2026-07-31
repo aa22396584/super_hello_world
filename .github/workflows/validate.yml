@@ -1,0 +1,30 @@
+name: Code Quality & Configuration Validation
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate Configuration & Documentation
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run Configuration Validation
+        run: bash validate_config.sh
+
+      - name: Run Documentation Validation
+        run: bash validate_docs.sh

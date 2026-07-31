@@ -97,7 +97,13 @@ is_runtime_available() {
     
     local run_cmd=$(echo "$lang_info" | jq -r '.runCommand')
     local compile_cmd=$(echo "$lang_info" | jq -r '.compileCommand')
+    local lang_name=$(echo "$lang_info" | jq -r '.name')
     
+    # Objective-C Foundation framework is only available natively on macOS (Darwin)
+    if [ "$lang_name" = "Objective-C" ] && [ "$(uname)" != "Darwin" ]; then
+        return 1
+    fi
+
     # Check compile command if it exists
     if [ "$compile_cmd" != "null" ] && [ -n "$compile_cmd" ]; then
         local compiler=$(extract_command "$compile_cmd")
@@ -108,6 +114,13 @@ is_runtime_available() {
     
     # Check run command
     local runner=$(extract_command "$run_cmd")
+    # J language runner check: JDK's jconsole is Java Monitoring Console, not J language
+    if [ "$runner" = "jconsole" ] && command_exists jconsole; then
+        if type jconsole 2>&1 | grep -iq "jconsole\|java"; then
+            return 1
+        fi
+    fi
+
     # Skip checking for relative paths (like ./hello)
     if [[ ! "$runner" =~ ^\. ]]; then
         if ! command_exists "$runner"; then
@@ -251,7 +264,7 @@ test_language() {
     local output
     local exit_code
     
-    output=$(eval "$run_cmd" 2>&1)
+    output=$(eval "$run_cmd" < /dev/null 2>&1)
     exit_code=$?
     
     cd - > /dev/null

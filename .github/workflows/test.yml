@@ -1,0 +1,37 @@
+name: Automated Testing
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: Run Automated Tests
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify or Install jq
+        run: |
+          if ! command -v jq &> /dev/null; then
+            echo "jq not found. Installing jq..."
+            sudo apt-get update && sudo apt-get install -y jq
+          else
+            echo "jq is already installed:"
+            jq --version
+          fi
+
+      - name: Run test script
+        run: bash test.sh --all --available-only --verbose

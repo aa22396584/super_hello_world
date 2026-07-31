@@ -478,7 +478,7 @@
       "category": "scripting",
       "file": "languages/scripting/sed/hello.sed",
       "extension": ".sed",
-      "runCommand": "sed -f {file} < /dev/null",
+      "runCommand": "echo \"\" | sed -f {file}",
       "compileCommand": null,
       "version": "POSIX",
       "officialDocs": "https://www.gnu.org/software/sed/manual/",

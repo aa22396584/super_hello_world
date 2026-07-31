@@ -1,5 +1,14 @@
 # Test temporary files
 .test_temp/
+.run_temp/
+.agents/
+.kiro/
+tmp/
+
+# Archives and build artifacts
+*.zip
+*.tar.gz
+SHA256SUMS
 
 # IDE
 .vscode/
@@ -14,3 +23,4 @@ Thumbs.db
 
 # Logs
 *.log
+
