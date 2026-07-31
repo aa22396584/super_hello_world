@@ -57,6 +57,8 @@ jobs:
             PRERELEASE_FLAG="--prerelease"
           fi
           
+          gh release delete "${TAG}" --yes || true
+          
           gh release create "${TAG}" \
             "${ZIP_NAME}" \
             "${TGZ_NAME}" \
