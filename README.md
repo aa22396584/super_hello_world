@@ -316,6 +316,12 @@ For more details, see [CONTRIBUTING.md](CONTRIBUTING.md).
 3. **Quick Reference**: Serve as a quick-start guide for developers exploring new languages
 4. **Automated Testing**: Ensure all implementations are correct and up-to-date
 
+---
+
+## Support
+
+If this project saved you some time, you can [buy me a coffee](https://buymeacoffee.com/iml1s).
+
 ## 📝 License
 
 This project is open source and available for educational purposes.
