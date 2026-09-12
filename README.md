@@ -1,5 +1,10 @@
 # Multi-Language Hello World Collection
 
+> **Development home:** https://github.com/ImL1s/super_hello_world  
+> Please open issues and pull requests there.  
+> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/super_hello_world) · [GitLab](https://gitlab.com/aa22396584/super_hello_world)
+
+
 <div align="center">
   <img src="assets/readme_hero.png" alt="Super Hello World Hero" width="100%" />
 </div>
