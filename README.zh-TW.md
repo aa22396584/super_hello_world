@@ -1,5 +1,7 @@
 # 多語言 Hello World 集合
 
+> **為什麼會有這個倉庫？** 原 GitHub 帳號 [`ImL1s`](https://github.com/ImL1s) 目前被限制（匿名瀏覽會 404），開發已搬到 [`aa22396584/super_hello_world`](https://github.com/aa22396584/super_hello_world)。這是同一個專案，Issues / PR 請開在這裡。
+
 **開發、Issues 與 PR：** https://github.com/aa22396584/super_hello_world  
 **鏡像：** [GitLab](https://gitlab.com/aa22396584/super_hello_world) · [Codeberg](https://codeberg.org/ImL1s/super_hello_world)
 
