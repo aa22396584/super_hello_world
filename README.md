@@ -8,6 +8,8 @@ https://github.com/aa22396584/super_hello_world
 [Codeberg](https://codeberg.org/ImL1s/super_hello_world)
 
 
+> **Why this GitHub home?** Public development moved here from [`ImL1s/super_hello_world`](https://github.com/ImL1s/super_hello_world) because that GitHub account is currently restricted (anonymous visitors get 404 on the profile and many assets). This is the same project. Please open Issues and Pull Requests here.
+
 <div align="center">
   <img src="assets/readme_hero.png" alt="Super Hello World Hero" width="100%" />
 </div>
