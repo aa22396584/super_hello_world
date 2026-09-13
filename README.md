@@ -1,8 +1,11 @@
 # Multi-Language Hello World Collection
 
-> **Development home:** https://github.com/ImL1s/super_hello_world  
-> Please open issues and pull requests there.  
-> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/super_hello_world) · [GitLab](https://gitlab.com/aa22396584/super_hello_world)
+**Development, Issues & Pull Requests:**  
+https://github.com/aa22396584/super_hello_world
+
+**Mirrors:**  
+[GitLab](https://gitlab.com/aa22396584/super_hello_world) ·
+[Codeberg](https://codeberg.org/ImL1s/super_hello_world)
 
 
 <div align="center">

@@ -1,8 +1,7 @@
 # 多語言 Hello World 集合
 
-> **開發主頁：** https://github.com/ImL1s/super_hello_world  
-> Issues / PR 請開在 GitHub。  
-> **鏡像備份：** [Codeberg](https://codeberg.org/ImL1s/super_hello_world) · [GitLab](https://gitlab.com/aa22396584/super_hello_world)
+**開發、Issues 與 PR：** https://github.com/aa22396584/super_hello_world  
+**鏡像：** [GitLab](https://gitlab.com/aa22396584/super_hello_world) · [Codeberg](https://codeberg.org/ImL1s/super_hello_world)
 
 
 [English](README.md) | [繁體中文](README.zh-TW.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Bahasa Indonesia](README.id.md) | [ไทย](README.th.md)
